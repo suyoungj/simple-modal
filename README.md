@@ -1,6 +1,6 @@
-# MyModal 모달 라이브러리
+# Simple Modal 라이브러리
 
-간단한 모달을 구현할 수 있는 라이브러리입니다.
+간단한 모달 컴포넌트를 구현할 수 있는 라이브러리입니다.
 
 ## 설치 방법
 
@@ -16,7 +16,7 @@ npm i @suyoungj/simple-modal
 import Modal from '@suyoungj/simple-modal';
 ```
 
-### MyModal 사용하기
+### Modal 사용하기
 
 ```js
 <Modal trigger={<button>모달 열기</button>}>
